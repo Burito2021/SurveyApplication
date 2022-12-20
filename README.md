@@ -17,6 +17,6 @@ App
 - If there is timeout on connection to DB, app returns timeout error
 - if there is an error in process of selecting data, app returns SQL exception
 3.displays data by the name of respondent by Resultsets. If tables contains several rows by the incoming name, then all the rows that have this name should be displayed.
-e.g. CREATE_DATE LIKE 'Mik%'
+e.g. USERNAME LIKE 'Mik%'
 - If there is timeout on connection to DB, app returns timeout error
 - if there is an error in process of selecting data, app returns SQL exception
